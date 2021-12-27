@@ -14,7 +14,7 @@
     "commitmsg": "validate-commit-msg"
   },
   "dependencies": {
-    "@mitz/schems": "git://github.com/daffacode/mitz-schems.git#dep0",
+    "@mitz/schems": "git://github.com/daffacode/mitz-schems.git#main",
     "@types/node": "^10.1.2",
     "@walletconnect/web3-provider": "^1.6.5",
     "@web3-react/fortmatic-connector": "^6.1.6",
@@ -70,6 +70,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/decentraland/decentraland-connect.git"
+    "url": "hhttps://github.com/daffacode/mitz-connector.git#dev"
   }
 }
